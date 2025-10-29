@@ -1,16 +1,19 @@
-# pcfsim_ui
+Industrial Operations Dashboard - Flutter Web App
 
-A new Flutter project.
+A comprehensive monitoring and simulation dashboard for industrial operations including mining activities, transportation logistics, creation workflows, and operational management. Features interactive world maps with animated transport routes, real-time metrics tracking, and fully responsive design.
 
-## Getting Started
+## Features
+- 🗺️ Interactive OSM-based world map with country markers
+- ✈️ Animated transport visualization with 100+ airplane icons
+- 📱 Fully responsive design (desktop, tablet, mobile)
+- 📊 Real-time metrics dashboard with revenue tracking
+- 🎯 Multi-module management (Mining, Transport, Creation, Operations)
+- 🎨 Material Design with custom theming
+- 📈 Data visualization with charts and tables
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Tech Stack
+- Flutter framework
+- GetX state management
+- flutter_map for geographic visualization
+- Google Fonts
+- Data Tables
